@@ -86,7 +86,16 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 */
-
+#preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+  overflow: hidden;
+  background: #000;
+}
 .loading {
   font-size: 84px;
   font-family: 'Montserrat', sans-serif;
