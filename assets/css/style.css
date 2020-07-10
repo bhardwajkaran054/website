@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #preloader:before {
-  content: "Karan";
+  content: "K";
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
